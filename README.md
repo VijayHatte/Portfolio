@@ -61,6 +61,8 @@ npm install
 ```bash
 npm run dev
 
+---
+
 ## 📬 Contact Me
 
 📧 Email: vijayhatte@gmail.com
