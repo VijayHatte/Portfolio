@@ -51,16 +51,17 @@ portfolio/
 ```bash
 git clone https://github.com/YOUR_USERNAME/portfolio.git
 cd portfolio
+```
 
 ### 2️⃣ Install Dependacies
 ```bash
 npm install
-
+```
 
 ### 3️⃣ Run Locally
 ```bash
 npm run dev
-
+```
 ---
 
 ## 📬 Contact Me
